@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "senior-data-engineer",
+    "title": "Senior Data Engineer",
+    "location": "Remote / Hybrid",
+    "type": "Full-time",
+    "summary": "Design and build data platforms and pipelines for analytics and ML.",
+    "responsibilities": [
+      "Own ingestion, transformation, orchestration, and reliability",
+      "Model data for analytics and ML consumers",
+      "Enable CI/CD, testing, and observability for data systems"
+    ],
+    "requirements": [
+      "5+ years in data engineering",
+      "Experience with dbt/Spark/Cloud warehouses",
+      "Strong SQL and one of Python/Scala"
+    ]
+  },
+  {
+    "slug": "analytics-engineer",
+    "title": "Analytics Engineer",
+    "location": "Remote / Hybrid",
+    "type": "Full-time",
+    "summary": "Shape semantic models and metrics to drive decisions.",
+    "responsibilities": [
+      "Partner with stakeholders to define metrics",
+      "Develop robust, tested ELT models",
+      "Enable self-serve via semantic layers and docs"
+    ],
+    "requirements": [
+      "3+ years in analytics engineering",
+      "Strong SQL and data modeling",
+      "Experience with BI tools and dbt"
+    ]
+  }
+]
+

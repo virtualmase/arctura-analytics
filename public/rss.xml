@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Arctura Analytics – Civic Programmes</title>
+    <link>https://www.arctura-analytics.example</link>
+    <description>Spotlights on digital public infrastructure we run with partners.</description>
+
+    <item>
+      <title>National registry backbone modernisation</title>
+      <link>https://www.arctura-analytics.example/about#registry</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid>https://www.arctura-analytics.example/about#registry</guid>
+    </item>
+    <item>
+      <title>Digital service fabric for state agencies</title>
+      <link>https://www.arctura-analytics.example/about#service-fabric</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid>https://www.arctura-analytics.example/about#service-fabric</guid>
+    </item>
+    <item>
+      <title>Trust and verification labs in production</title>
+      <link>https://www.arctura-analytics.example/about#trust-labs</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid>https://www.arctura-analytics.example/about#trust-labs</guid>
+    </item>
+  </channel>
+</rss>
